@@ -53,7 +53,7 @@ input, button {
   padding: 1rem;
   border-radius: 1rem;
   /* margin-right: 1rem; */
-  columns: var(--light);
+  color: var(--light);
   font-size: 1.25rem;
 }
 
@@ -102,6 +102,8 @@ main {
   padding: 1rem;
   border-radius: 1rem;
   margin-bottom: 1rem;
+  color: #FFF;
+
 }
 
 #tasks .task .content .text {
